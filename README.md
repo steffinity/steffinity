@@ -69,12 +69,11 @@ My long-term goal is to become a Trading Developer, building low-latency, high-p
 # 📈 Areas of Interest
 
 * Trading Systems
-* Market Data Processing
 * Quantitative Finance
 * Exchange Architecture
 * Backend Services
 * Distributed Computing
-* Performance Engineering
+* UI-UX designing
 * Financial Infrastructure
 
 ---
@@ -116,6 +115,6 @@ I enjoy understanding how complex systems work under the hood, from databases an
 
 # 📫 Let's Connect
 
-Always open to discussions about backend engineering, trading technology, system design, and building cool things.
+Always open to discussions about backend engineering, trading technology, ui-ux, and building cool things.
 
 > "Simplicity is the ultimate sophistication." – Leonardo da Vinci
