@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=FF69B4&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+the+Making;Aspiring+Trading+Developer;Building+Reliable+Systems;Low+Latency+%7C+Finance+%7C+Engineering;Code.+Optimize.+Scale."/>
 </p>
 
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZqMXJtOHU0Mm5jMnBjcWF6aW03aHV3OHdwaGxobHVub2I4ZWEwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+</p>
+
 # 👋 About Me
 
 I'm an Information Technology student passionate about backend engineering, distributed systems, and financial technology.
